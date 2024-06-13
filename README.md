@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CrazyAboutCoding
-- 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning a course on artificial intelligence and machine learning
-- 💞️ I’m looking to collaborate on machine learning
-- 📫 How to reach me: Instagram: @crazy_about_coding
+- 👀 I’m interested in Software Development and Artificial Intelligence and Machine Learning
+- 🌱 I’m currently learning by doing projects and solving problems on various platforms
+- 💞️ I'm eager to explore the world of Software Engineering!
+- 📫 How to reach me: Instagram: @crazy_about_coding or LinkedIn: (https://www.linkedin.com/in/jayasri-s-08a3a9222/)
 
 <!---
 CrazyAboutCoding/CrazyAboutCoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
